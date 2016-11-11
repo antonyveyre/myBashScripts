@@ -1,0 +1,3 @@
+$ for NUM in `seq 1 1 1000`; do touch $NUM-file.txt; done
+# used for kill many process in a row
+
